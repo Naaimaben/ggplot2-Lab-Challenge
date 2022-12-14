@@ -13,6 +13,6 @@ Supervised by Professor M. EL HAJJI
 
 ![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/ChallengeGraph.png)
 
-### Last graph one the Lab
+### Last graph on the Lab
 
 ![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/grapheLab1.PNG)
