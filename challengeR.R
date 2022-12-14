@@ -18,7 +18,7 @@ graph3 = reviews %>%
   theme_fivethirtyeight() +
   labs(title = "Google Play Store Ratings",
        y = "Rating (out of 5)",
-       caption = "Source: Nadir") +
+       caption = "Source: Kaggle") +
   theme(legend.position = "none",
         axis.title.y = element_text(),
         text = element_text(family="Poppins SemiBold"),
