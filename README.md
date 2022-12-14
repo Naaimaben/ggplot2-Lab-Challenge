@@ -1,4 +1,7 @@
 # ggplot2-Lab-Challenge
+#### Master of Big Data & AI, Module Data Visualization 
+
+
 Presented by Naaima BEN KADOUR
 
 Supervised by Professor M. EL HAJJI
