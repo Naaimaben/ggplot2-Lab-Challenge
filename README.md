@@ -11,8 +11,8 @@ Supervised by Professor M. EL HAJJI
 
 ### Challenge's graph
 
-![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/ChallengeGraph.png)
+![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/images/ChallengeGraph.png)
 
 ### Last graph on the Lab
 
-![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/grapheLab1.PNG)
+![alt text](https://github.com/Naaimaben/ggplot2-Lab-Challenge/blob/master/images/grapheLab1.PNG)
