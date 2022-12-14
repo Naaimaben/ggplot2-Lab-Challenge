@@ -4,4 +4,5 @@
 
 ### Challenge graph
 
+![alt text](https://github.com/[Naaimaben]/[ggplot2-Lab-Challenge]/blob/ChallengeGraph.png?raw=true)
 
